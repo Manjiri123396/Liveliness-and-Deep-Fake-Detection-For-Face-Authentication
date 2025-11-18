@@ -1,5 +1,5 @@
 
-#  **FINAL README INSTRUCTION DOCUMENT **
+#  FINAL README INSTRUCTION DOCUMENT 
 
 ### **Hybrid Face Anti-Spoofing System – Execution Guide**
 
@@ -218,30 +218,12 @@ mongod
 
 ---
 
-# **10. Demonstration Steps for Examiner**
 
-1. Show project folder
-2. Start virtual environment
-3. Run `python app.py`
-4. Login & open detection page
-5. Test:
-
-   * 1 Image
-   * 1 Video
-   * Live Webcam
-6. Show MongoDB storing logs
-7. Explain:
-
-   * MobileNetV3 = image/video
-   * ResNet50 = webcam
-8. Show static/uploads folder storing temporary files
-
----
-
-# **11. Conclusion**
+# ** Conclusion**
 
 This document provides complete execution instructions for running the Hybrid Face Anti-Spoofing System. The application integrates Flask, TensorFlow, OpenCV, and MongoDB to deliver reliable real-time authentication.
 
 ---
+
 
 
